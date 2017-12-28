@@ -1,7 +1,6 @@
 //triangle circling around
 //developed by soumyadeep das
-//...all rights revserved 2017..
-//coordinate for middle line..200,300 to 400,300
+//coordinate for middle line..230,300 to 370,300
 
 PVector align,dot;
 float a=PI;
