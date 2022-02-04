@@ -1,2 +1,2 @@
 # processing-sketch
-algorithm design
+algorithm DESIGN
